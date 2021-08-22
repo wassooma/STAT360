@@ -16,7 +16,7 @@ A package written in R that is sufficient to answer every statistics related que
 - Tests concerning regression coefficients; coefficient of partial determination; standardized multiple regression models
 
 ## Goals and Future improvements
-The existing code's main purpose is to automate homework/assignments. Future release will include a web interface using [R Shiny] (https://shiny.rstudio.com/).
+The existing code's main purpose is to automate homework/assignments. Future release will include a web interface using [R Shiny](https://shiny.rstudio.com/).
 
 ## Installing in R
 ```
